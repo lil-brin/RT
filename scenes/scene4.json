@@ -1,0 +1,30 @@
+{ "scene" : {
+    "object_count" : 1,
+    "lights_count" : 2
+},
+ 
+"objects" : [ {
+  "position" : [0, 0, 1],
+  "direction" : [0, 1, 0],
+  "name" : "cone",
+  "specularity" : 500,
+  "size" : 0.6,
+  "color" : [150, 30, 150]
+}],
+
+"lights" : [ {
+		 "position" : [0, 1, -10],
+		 "type" : "point",
+  		 "intensity" : 0.6
+},
+{
+         "position" : [0, 1, 0],
+         "type" : "directional",
+         "intensity" : 0.6
+}],
+
+"camera" : {
+		 "position" : [0, 0, -10],
+		 "direction" : [0, 0, 0]
+}
+}

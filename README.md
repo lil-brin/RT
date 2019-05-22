@@ -1,6 +1,6 @@
 # RT
 
-![screenshot](Screen Shot 2019-05-22 at 3.02.28 PM.png?raw=true)
+![screenshot](screen.png?raw=true)
 
 ## Features
 * Simple file format definition (array of space-separated integers)
